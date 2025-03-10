@@ -42,8 +42,8 @@ Discover the perfect recipe by simply entering the ingredients you have at home.
 
 ## 📸 Screenshots
 
-![Bite Alchemy Home Page]\(Screenshot 2025-03-10 135312.png)
-![Ingredient Selection]\(Screenshot 2025-03-10 135728.png)
+![Bite Alchemy Home Page]\(Screenshot home-page.png)
+![Ingredient Selection]\(Screenshot side-bar.png)
 
 ## 📬 Contact
 
