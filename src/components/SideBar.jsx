@@ -1,12 +1,11 @@
-import React, { useState } from "react";
 import styles from "./Sidebar.module.css";
+import React from "react";
 import Logo from "./Logo";
 // import AppNav from "./AppNav";
 // import { Outlet } from "react-router-dom";
-import { ingredients } from "../context/ingredientsContext";
+import { ingredients, useProvider } from "../context/ingredientsContext";
 function SideBar() {
-  const [activeIDs, setActiveIDs] = useState([]);
-
+  const { setActiveIDs, activeIDs } = useProvider();
   function toggleHandler(index) {
     if (activeIDs.includes(index)) {
       console.log("filtering");
