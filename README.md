@@ -1,12 +1,55 @@
-# React + Vite
+# 🍽️ Bite Alchemy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Discover the perfect recipe by simply entering the ingredients you have at home. Let the magic of smart cooking inspire your next meal!
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Bite Alchemy Live](https://bite-alchemy.vercel.app/)
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🔍 Search recipes by available ingredients
+- 🥗 Get instant suggestions for creative meals using the **Spoonacular API**
+- 📋 Easy-to-follow recipe instructions
+- 🌐 Responsive design for all devices
+- 🚧 **In Development** — Exciting new features coming soon!
+
+## 🛠️ Built With
+
+- **React** — for dynamic UI
+- **JavaScript** — for logic and interactivity
+- **CSS** — for styling
+- **Spoonacular API** — for fetching recipes and ingredients data
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mahla-kh/Bite-Alchemy.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Bite-Alchemy
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run the app:
+   ```bash
+   npm run dev
+   ```
+
+## 📸 Screenshots
+
+![Bite Alchemy Home Page]\(Screenshot 2025-03-10 135312.png)
+![Ingredient Selection]\(Screenshot 2025-03-10 135728.png)
+
+## 📬 Contact
+
+Feel free to reach out via [GitHub](https://github.com/mahla-kh) !
+
+---
+
+⭐️ *If you like this project, give it a star!*
+
