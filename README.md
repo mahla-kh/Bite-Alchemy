@@ -42,7 +42,7 @@ Discover the perfect recipe by simply entering the ingredients you have at home.
 
 ## 📸 Screenshots
 
-![Bite Alchemy Home Page]([public/home-page.png](https://github.com/mahla-kh/Bite-Alchemy/blob/main/public/home-page.png?raw=true))
+![Bite Alchemy Home Page](public/side-bar.png)
 ![Ingredient Selection](public/side-bar.png)
 
 
